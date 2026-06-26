@@ -14,7 +14,7 @@ export default function Hero() {
           className="w-full h-full object-cover"
         >
           <source
-            src="https://videos.pexels.com/video-files/3249975/3249975-hd_1920_1080_25fps.mp4"
+            src="/Real Estate Background Video For Website.mp4"
             type="video/mp4"
           />
         </video>
